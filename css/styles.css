@@ -1,0 +1,27 @@
+body {
+  background-image: url(/img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#equil {
+  display: none;
+}
+
+#nota {
+  display: none;
+}
+
+#iso {
+  display: none;
+}
+
+#scale {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 200px;
+  color: purple;
+  padding-top: 200px;
+}
